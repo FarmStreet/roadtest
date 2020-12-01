@@ -1,12 +1,12 @@
 {
   "version": 8,
   "name": "dorogi",
-  "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite?key={key}",
-  "glyphs": "https://maptiles.bkdrf.ru/fonts/{fontstack}/{range}.pbf?key={key}",
+  "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite",
+  "glyphs": "https://maptiles.bkdrf.ru/fonts/{fontstack}/{range}.pbf",
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://maptiles.bkdrf.ru/data/v3.json?key={key}"
+      "url": "https://maptiles.bkdrf.ru/data/v3.json"
     }
   },
   "layers": []
