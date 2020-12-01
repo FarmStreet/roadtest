@@ -1,0 +1,13 @@
+{
+  "version": 8,
+  "name": "dorogi",
+  "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite?key={key}",
+  "glyphs": "https://maptiles.bkdrf.ru/fonts/{fontstack}/{range}.pbf?key={key}",
+  "sources": {
+    "openmaptiles": {
+      "type": "vector",
+      "url": "https://maptiles.bkdrf.ru/data/v3.json?key={key}"
+    }
+  },
+  "layers": []
+}
